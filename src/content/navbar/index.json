@@ -1,13 +1,14 @@
 {
   "items": [
     {
-      "title": "Lobby",
-      "link": "/a/",
-      "display": true,
-      "requiresAuth": true,
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
-      ]
+      ],
+      "title": "Home",
+      "link": "/",
+      "display": true
     },
     {
       "title": "Schedule",
