@@ -11,6 +11,15 @@
       "display": true
     },
     {
+      "title": "ABOUT THE EVENT",
+      "link": "/about-event",
+      "display": true,
+      "requiresAuth": false,
+      "pageRestriction": [
+        "ANY"
+      ]
+    },
+    {
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
@@ -38,27 +47,9 @@
       ]
     },
     {
-      "title": "ABOUT THE EVENT",
-      "link": "/about-event",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "WHO WE ARE",
       "link": "/who-we-are",
       "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Past events",
-      "link": "/past-events",
-      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
@@ -74,26 +65,8 @@
       ]
     },
     {
-      "title": "HELP",
-      "link": "/help",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "MY PROFILE",
-      "link": "/a/profile",
       "display": true,
       "requiresAuth": true,
       "pageRestriction": [
