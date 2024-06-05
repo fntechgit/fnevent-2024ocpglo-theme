@@ -1,21 +1,21 @@
 {
   "widgets": {
     "chat": {
-      "enabled": true,
+      "enabled": false,
       "showQA": false,
       "showHelp": false,
       "defaultScope": "page"
     },
     "schedule": {
-      "allowClick": true
+      "allowClick": false
     }
   },
   "identityProviderButtons": [
     {
-      "buttonColor": "#082238",
+      "buttonColor": "#0C64C8",
       "providerLabel": "Continue with FNid",
-      "providerLogo": "logo_fn.svg",
-      "providerLogoSize": 27
+      "providerLogo": "fntech-social-bug_white_no-padding.svg",
+      "providerLogoSize": 20
     },
     {
       "buttonColor": "#0A66C2",
