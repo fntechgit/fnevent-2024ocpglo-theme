@@ -13,7 +13,7 @@ Early Bird: $700 (June 3 - August 2)
 
 General: $900 (August 3 - October 14)
 
-On-site: $1,00 (October 15 - 18)
+On-site: $1,200 (October 15 - 18)
 
 #### **Cancellation Policy**
 
