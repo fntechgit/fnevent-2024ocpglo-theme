@@ -61,21 +61,16 @@ A. For FNregistration support, please email [registration@opencompute.org](mail
 A. After you registered/purchased your ticket, you should have received an Order Confirmation email and a Ticket email that contained your ticket.
 
 * If you don’t remember receiving your Order Confirmation or Ticket email, please check your Junk/Spam folder for an email from registration@fntech.com
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2023ocpregional.fnvirtual.app](https://2023ocpregional.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2024ocpglobal.fnvirtual.app](https://2024ocplobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* If you are at the event, please visit the Registration desk. Simply enter the email you used for registration or your name into the tablet. They system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
 * For additional Registration support, please email [](<>)[registration@opencompute.org](mailto:registration@opencompute.org)
-
-**Q. I know the event url, but can’t find my ticket. How can I enter the event?**
-
-A. If you registered with your FNid, you can simply log in using those credentials. The system will know that you purchased a ticket.
-
-* You may also use a social login or request a one-time-use authorization code to be sent to your email. Please use the same email on your ticket in order to log in. The system will know that you purchased a ticket based on your email. 
 
 **Q. I’m looking for my event order. Where can I find this?**
 
 A. You can access your order from the Order Confirmation email you received at the address you provided during the registration process.
 
 * If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from registration@opencompute.org
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [](https://2022ocpglobal.fnvirtual.app/)[2023ocpregional.fnvirtual.app](https://2023ocpregional.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [](https://2022ocpglobal.fnvirtual.app/)[2024ocpglobal.fnvirtual.app](https://2024ocpglobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
 * For additional FNregistration support, please email [](<>)registration@opencompute.org
 
 **Q. The event webpage isn’t loading for me. What should I do?**
