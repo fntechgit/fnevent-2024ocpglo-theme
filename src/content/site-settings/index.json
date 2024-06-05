@@ -75,5 +75,16 @@
   },
   "favicon": {
     "asset": "ocp24g-fnv-favicon-260.png"
+  },
+  "siteFont": {
+    "fontFamily": "Franklin Gothic",
+    "regularFont": {
+      "fontFile": "/static/fonts/franklingothicurw-boo.woff",
+      "fontFormat": "woff"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/franklingothicurw-med.woff",
+      "fontFormat": "woff"
+    }
   }
 }
