@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: TRAVEL
+title: Travel
 userRequirement: NONE
 ---
 **Event Venue**: \
