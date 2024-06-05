@@ -12,7 +12,7 @@ A. FNvirtual works best in Chrome, Safari, Brave, and Firefox. To ensure you hav
 
 A. Your FNid is a set of credentials that authenticates you as a user of the FNvirtual Event Platform. When you create your FNid, you enter basic info about yourself and create a password to protect your info. You will use your FNid to access all FNvirtual Events.
 
-* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
+* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
 
 **Q. I created my FNid; why do I need to register for the event as well?**
 
@@ -21,7 +21,7 @@ A. Creating an FNid and registering/purchasing an event ticket are two different
 * Think of your FNid like a virtual ID card. These credentials tell the system you are you and permit access to FNvirtual registered events. (On the day of the event, you will simply log in with your FNid credentials; the system will know if you purchased an event ticket because it will be linked to your FNid.)
 * When you register/purchase an event ticket, you are gaining access to the event itself. Just like you would not be permitted entry to an in-person event without your printed badge, you will not be allowed to enter an FNvirtual event without a valid virtual ticket to that specific event. This step must be completed prior to attending each event.
 * Please use the same email address for each event by signing into your FNid account during the registration process.
-* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
+* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
 
 **Q. Why am I being asked to allow the Virtual Event app to access my information after I log in for the first time?**
 
@@ -41,37 +41,37 @@ A. The information you provide as a speaker/presenter through FNspeaker.mgmt wil
 
 **Q. I forgot my FNid login/password. What do I do now?**
 
-A. Please visit [this page](https://idp.fnvirtual.app/auth/login).
+A. Please visit [this page](https://idp.fnvirtual.app/auth/login).
 
-* Type in your email address (whichever one you used to create your FNid). 
+* Type in your email address (whichever one you used to create your FNid). 
 * Choose “Reset your password” and follow the subsequent instructions.
 * You will receive an email that will allow you to reset your password.
-* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
+* You may also use a social login or request a one-time-use authorization code to be sent to your email. If you are registered for an event, please use the same email on your ticket in order to log in. 
 
 **Q. I’m having trouble with my FNid. Who should I contact?**
 
-A. For tech support, please email [support@fntech.com](mailto:support@fntech.com)
+A. For tech support, please email [support@fntech.com](mailto:support@fntech.com)
 
 **Q. I’m having trouble registering for an event. Who should I contact?**
 
-A. For FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
+A. For FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. I’m looking for my “ticket” to an event. Where can I find this?**
 
 A. After you registered/purchased your ticket, you should have received an Order Confirmation email and a Ticket email that contained your ticket.
 
 * If you don’t remember receiving your Order Confirmation or Ticket email, please check your Junk/Spam folder for an email from registration@fntech.com
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2024ocpglobal.fnvirtual.app](https://2024ocplobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2024ocpglobal.fnvirtual.app](https://2024ocplobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
 * If you are at the event, please visit the Registration desk. Simply enter the email you used for registration or your name into the tablet. They system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
-* For additional Registration support, please email [](<>)[registration@opencompute.org](mailto:registration@opencompute.org)
+* For additional Registration support, please email [](<>)[registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. I’m looking for my event order. Where can I find this?**
 
 A. You can access your order from the Order Confirmation email you received at the address you provided during the registration process.
 
 * If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from registration@opencompute.org
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [](https://2022ocpglobal.fnvirtual.app/)[2024ocpglobal.fnvirtual.app](https://2024ocpglobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
-* For additional FNregistration support, please email [](<>)registration@opencompute.org
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [](https://2022ocpglobal.fnvirtual.app/)[2024ocpglobal.fnvirtual.app](https://2024ocpglobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* For additional FNregistration support, please email [](<>)registration@opencompute.org
 
 **Q. The event webpage isn’t loading for me. What should I do?**
 
@@ -83,7 +83,7 @@ A. First, log out of the website and log back in using your FNid, social authori
 
 **Q. How do I add a session to my agenda or “My Schedule”?**
 
-A. Click on “Schedule” in the top navigation bar. 
+A. Click on “Schedule” in the top navigation bar. 
 
 * Find the session/event you wish to add to your schedule and click the “+” symbol to the right of the title.
 * You may view sessions or events you have added to your personal schedule by clicking “My Schedule” in the navigation bar.
@@ -97,4 +97,4 @@ A. Open your internet browser. Then…
 
 **Q. I’m interested in using FNvirtual for an event. Who should I contact?**
 
-A. Please email [govirtual@fntech.com](mailto:govirtual@fntech.com). We’d love to collaborate with you!
+A. Please email [govirtual@fntech.com](mailto:govirtual@fntech.com). We’d love to collaborate with you!

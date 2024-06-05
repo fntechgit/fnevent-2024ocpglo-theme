@@ -5,21 +5,21 @@ userRequirement: NONE
 ---
 ###### Email OCP for questions regarding:
 
-OCP Membership: [](mailto:membership@opencompute.org)[membership@opencompute.org](mailto:membership@opencompute.org)
+OCP Membership: [](mailto:membership@opencompute.org)[membership@opencompute.org](mailto:membership@opencompute.org)
 
-OCP Solution Provider Program: [](mailto:solutionproviders@opencompute.org)[solutionproviders@opencompute.org](mailto:solutionproviders@opencompute.org)
+OCP Solution Provider Program: [](mailto:solutionproviders@opencompute.org)[solutionproviders@opencompute.org](mailto:solutionproviders@opencompute.org)
 
-Event Sponsorship: [](mailto:sponsor@opencompute.org)[sponsor@opencompute.org](mailto:sponsor@opencompute.org)
+Event Sponsorship: [](mailto:sponsor@opencompute.org)[sponsor@opencompute.org](mailto:sponsor@opencompute.org)
 
-Upcoming Events: [](mailto:events@opencompute.org)[events@opencompute.org](mailto:events@opencompute.org)
+Upcoming Events: [](mailto:events@opencompute.org)[events@opencompute.org](mailto:events@opencompute.org)
 
-Current Registration for an Event:  [](mailto:registration@opencompute.org)[registration@opencompute.org](mailto:registration@opencompute.org)
+Current Registration for an Event:  [](mailto:registration@opencompute.org)[registration@opencompute.org](mailto:registration@opencompute.org)
 
-Press Inquiries: [](mailto:press@opencompute.org)[press@opencompute.org](mailto:press@opencompute.org)
+Press Inquiries: [](mailto:press@opencompute.org)[press@opencompute.org](mailto:press@opencompute.org)
 
-OCP Brand Site: [](mailto:OCPgear@opencompute.org)[OCPgear@opencompute.org](mailto:OCPgear@opencompute.org)
+OCP Brand Site: [](mailto:OCPgear@opencompute.org)[OCPgear@opencompute.org](mailto:OCPgear@opencompute.org)
 
-###### **<br>**
+<br/>
 
 ###### **OCP Mailing Address**
 
@@ -32,6 +32,6 @@ Austin, TX 78750
 (281) 667-4644\
 \
 **\
-Event Tech Support:** [](mailto:support@fntech.com)[support@fntech.com](mailto:support@fntech.com)
+Event Tech Support:** [](mailto:support@fntech.com)[support@fntech.com](mailto:support@fntech.com)
 
-**Event Registration Issues:** [](mailto:registration@opencompute.org)[registration@opencompute.org](mailto:registration@opencompute.org)
+**Event Registration Issues:** [](mailto:registration@opencompute.org)[registration@opencompute.org](mailto:registration@opencompute.org)
