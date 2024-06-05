@@ -48,22 +48,14 @@
       ]
     },
     {
-      "title": "SPONSORS",
-      "link": "/a/sponsors/",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "WHO WE ARE",
-      "link": "/who-we-are",
-      "display": true,
       "requiresAuth": false,
+      "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
-      ]
+      ],
+      "title": "TRAVEL",
+      "link": "/travel",
+      "display": true
     },
     {
       "title": "CONTACT",
