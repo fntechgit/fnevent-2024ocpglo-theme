@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: REGISTRATION
+title: Registration
 userRequirement: NONE
 ---
 ##### **[CLICK HERE TO REGISTER](https://2024ocpglobal.fnvirtual.app/)**
