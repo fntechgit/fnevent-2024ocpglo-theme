@@ -6,12 +6,12 @@
       "pageRestriction": [
         "ANY"
       ],
-      "title": "Home",
+      "title": "HOME",
       "link": "/",
       "display": true
     },
     {
-      "title": "Schedule",
+      "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
       "requiresAuth": false,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "title": "My Schedule",
+      "title": "MY SCHEDULE",
       "link": "/a/my-schedule",
       "display": true,
       "requiresAuth": true,
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "Sponsors ",
+      "title": "SPONSORS",
       "link": "/a/sponsors/",
       "display": true,
       "requiresAuth": true,
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "title": "About the event",
+      "title": "ABOUT THE EVENT",
       "link": "/about-event",
       "display": true,
       "requiresAuth": false,
