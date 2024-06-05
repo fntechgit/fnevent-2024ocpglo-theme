@@ -11,15 +11,6 @@
       "display": true
     },
     {
-      "title": "ABOUT THE EVENT",
-      "link": "/about-event",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "requiresAuth": false,
       "showOnlyAtShowTime": false,
       "pageRestriction": [
@@ -67,15 +58,6 @@
       ]
     },
     {
-      "title": "MY ORDERS/TICKETS",
-      "link": "/a/my-tickets",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "requiresAuth": false,
       "showOnlyAtShowTime": false,
       "pageRestriction": [
@@ -84,6 +66,15 @@
       "title": "FAQ",
       "link": "/faq",
       "display": true
+    },
+    {
+      "title": "MY ORDERS/TICKETS",
+      "link": "/a/my-tickets",
+      "display": true,
+      "requiresAuth": true,
+      "pageRestriction": [
+        "ANY"
+      ]
     }
   ]
 }
