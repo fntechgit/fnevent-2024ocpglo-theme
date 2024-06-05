@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: About the event
+title: About the Event
 userRequirement: NONE
 ---
 YOU DECIDE!
