@@ -20,6 +20,16 @@
       ]
     },
     {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "REGISTRATION",
+      "link": "/registration",
+      "display": true
+    },
+    {
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
