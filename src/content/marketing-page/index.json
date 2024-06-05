@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "2024 OCP Global Summit",
+    "date": "October 15–17",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -16,15 +16,12 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "ocp24g-fnv-header-r_v1.png"
       }
-    ]
+    ],
+    "background": {
+      "src": "ocp24g-fnv-header-l_v1.png"
+    }
   },
   "countdown": {
     "display": true,
