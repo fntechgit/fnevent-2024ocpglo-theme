@@ -25,11 +25,11 @@ Badge sharing/swapping/trading is considered theft and is strictly prohibited at
 
 For events with wristband identifiers, please wear your wristband at all times and leave it on your person for the duration of the event. The wristband is for security, the badge is for identification and access to particular areas of the event. Be aware you must be wearing both to access the event. If you remove your wristband and/or lose it, you will be required to purchase an onsite ticket to replace it.
 
-Click here to review the full OCP Events Terms and Conditions (PDF).
+[Click here](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/1c514a44df1ae436aedb3cf1324212aadd822f25.pdf) to review the full OCP Events Terms and Conditions (PDF).
 
 ###### Media Passes:
 
-Click this link: MEDIA PASS REQUEST to apply for a media/analyst pass. 
+Click this link: [MEDIA PASS REQUEST](https://docs.google.com/forms/d/e/1FAIpQLScvKUW7uAW3a_I6VXBxYoksApgdqGGatPlykfL2TEEmn4CX2Q/viewform) to apply for a media/analyst pass. 
 
 **How to Register:**
 
