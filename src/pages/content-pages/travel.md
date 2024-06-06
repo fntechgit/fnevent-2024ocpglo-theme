@@ -8,7 +8,7 @@ San Jose Convention Center\
 150 W San Carlos Street\
 San Jose, CA 95113
 
-Looking for things to do in San Jose? Visit their travel page!
+Looking for things to do in San Jose? Visit their [travel page](https://www.sanjose.org/things-to-do)!
 
 - - -
 
