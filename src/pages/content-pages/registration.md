@@ -35,7 +35,7 @@ For events with wristband identifiers, please wear your wristband at all times a
 
 ###### Media Passes:
 
-Click this link: [MEDIA PASS REQUEST](https://docs.google.com/forms/d/e/1FAIpQLScvKUW7uAW3a_I6VXBxYoksApgdqGGatPlykfL2TEEmn4CX2Q/viewform) to apply for a media/analyst pass. 
+Click this link: [MEDIA PASS REQUEST](https://docs.google.com/forms/d/e/1FAIpQLSfQBEY5vYhh901hykPrQfFiSWhGDdCK8CaBBlNn6fNqq_sMlA/viewform?usp=sf_link) to apply for a media/analyst pass. 
 
 **<br/>**
 
