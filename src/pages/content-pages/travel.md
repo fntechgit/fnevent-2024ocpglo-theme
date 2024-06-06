@@ -28,6 +28,9 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 **SFO -** San Francisco International Airport \
 35 miles 
 
+**OAK -** Oakland International Airport \
+36 miles 
+
 - - -
 
 **Parking**
