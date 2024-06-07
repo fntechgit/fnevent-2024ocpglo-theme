@@ -19,8 +19,4 @@
   for = "/fonts/*"
     [headers.values]
      Access-Control-Allow-Origin = "*"
-[[redirects]]
-   from = "https://2024ocpglobal.fnvirtual.app"
-   to = "https://www.opencompute.org/summit/global-summit"
-   status = 200
-   force = true
+
