@@ -61,7 +61,7 @@ A. For FNregistration support, please email [registration@opencompute.org](mailt
 A. After you registered/purchased your ticket, you received two emails: (1) an Order Confirmation email (confirming your order was processed), and (2) a Ticket email (that contained your ticket(s) information).
 
 * If you do not see your Order Confirmation or Ticket email in your inbox, please check your junk/spam folder for an email from registration@fntech.com.
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2024ocpglobal.fnvirtual.app](https://2024ocplobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2024ocpglobal.fnvirtual.app](https://2024ocpglobal.fnvirtual.app/). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
 * If you are physically at the event, please visit the Registration desk. Simply enter your email address or name on the iPad. The system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
 * For additional Registration support, please email [](<>)[registration@opencompute.org](mailto:registration@opencompute.org)
 
