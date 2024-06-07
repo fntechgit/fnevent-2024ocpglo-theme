@@ -41,7 +41,7 @@ Click this link: [MEDIA PASS REQUEST](https://docs.google.com/forms/d/e/1FAIpQLS
 
 **How to Register:**
 
-1. Click this link: [REGISTER NOW](https://2024ocglobal.fnvirtual.app/#registration=1). Follow the log in instructions to authenticate yourself (this lets us know who you are) and complete the registration process. 
+1. Click this link: [REGISTER NOW](https://2024ocpglobal.fnvirtual.app/#registration=1). Follow the log in instructions to authenticate yourself (this lets us know who you are) and complete the registration process. 
 
 **<br/>**
 
