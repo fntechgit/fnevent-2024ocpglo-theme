@@ -1,4 +1,11 @@
 {
+  "siteMetadata": {
+    "title": "2024 OCP Global Summit",
+    "description": "From Ideas to Impact\n\nThe OCP Summit is the premier event uniting the most forward-thinking minds in open IT Ecosystem development. The Summit presents a unique platform for our Community from around the globe to share their insights, foster partnerships and showcase cutting-edge advancements in open hardware and software."
+  },
+  "favicon": {
+    "asset": "ocp24g-fnv-favicon-260.png"
+  },
   "widgets": {
     "chat": {
       "enabled": false,
@@ -39,44 +46,6 @@
       "providerLogoSize": 20
     }
   ],
-  "staticJsonFilesBuildTime": [
-    {
-      "file": "src/data/summit.json",
-      "build_time": 1709766469125
-    },
-    {
-      "file": "src/data/events.json",
-      "build_time": 1709766471276
-    },
-    {
-      "file": "src/data/events.idx.json",
-      "build_time": 1709766471278
-    },
-    {
-      "file": "src/data/speakers.json",
-      "build_time": 1709766472403
-    },
-    {
-      "file": "src/data/speakers.idx.json",
-      "build_time": 1709766472403
-    },
-    {
-      "file": "src/content/sponsors.json",
-      "build_time": 1709766474440
-    },
-    {
-      "file": "src/data/voteable-presentations.json",
-      "build_time": 1709766474818
-    }
-  ],
-  "lastBuild": 1709766474818,
-  "siteMetadata": {
-    "title": "2024 OCP Global Summit",
-    "description": "From Ideas to Impact\n\nThe OCP Summit is the premier event uniting the most forward-thinking minds in open IT Ecosystem development. The Summit presents a unique platform for our Community from around the globe to share their insights, foster partnerships and showcase cutting-edge advancements in open hardware and software."
-  },
-  "favicon": {
-    "asset": "ocp24g-fnv-favicon-260.png"
-  },
   "siteFont": {
     "fontFamily": "Franklin Gothic",
     "regularFont": {
@@ -87,5 +56,10 @@
       "fontFile": "/static/fonts/franklingothicurw-med.woff",
       "fontFormat": "woff"
     }
+  },
+  "maintenanceMode": {
+    "enabled": false,
+    "title": "Site under maintenance",
+    "subtitle": "Please reload page shortly"
   }
 }
