@@ -16,7 +16,9 @@ Looking for things to do in San Jose? Visit their [travel page](https://www.sanj
 
 OCP has room blocks at the following hotels offering our attendees a discounted rate. Please see below for rates and reservation links. Rooms are available until reservation deadline of **September 20** or until the room blocks sell out, whichever occurs first. 
 
-***Hotel list and links coming soon!*** 
+[Marriott](https://book.passkey.com/event/50729593/owner/8855/home) - $339 per night (+ taxes & fees)
+
+[Hyatt Place](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OCAT) - $304 per night (+ taxes & fees)
 
 - - -
 
