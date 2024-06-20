@@ -20,6 +20,8 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 
 [Hyatt Place](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OCAT) - $304 per night (+ taxes & fees)
 
+[The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink) - $329 per night (+ taxes & fees)
+
 - - -
 
 **Nearby Airports**
