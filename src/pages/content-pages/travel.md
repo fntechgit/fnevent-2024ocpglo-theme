@@ -22,6 +22,8 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 
 [The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink) - $329 per night (+ taxes & fees)
 
+[Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-0b4ae08d-8f6d-47d5-b4d2-4f032b30c343/) - $348 per night (+ taxes)
+
 - - -
 
 **Nearby Airports**
