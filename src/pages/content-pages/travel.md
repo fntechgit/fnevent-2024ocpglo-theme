@@ -24,7 +24,7 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 
 [Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-0b4ae08d-8f6d-47d5-b4d2-4f032b30c343/) - $348 per night (+ taxes)
 
-[Signia by Hilton](https://www.hilton.com/en/attend-my-event/2024ocpglobalsummitsj/) - $292 per night (+ taxes)
+[Signia by Hilton](https://www.hilton.com/en/attend-my-event/2024ocpglobalsummitsj/) - $292 per night (+ taxes & fees)
 
 - - -
 
