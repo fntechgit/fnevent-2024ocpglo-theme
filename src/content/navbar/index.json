@@ -33,7 +33,7 @@
       "title": "MY SCHEDULE",
       "link": "/a/my-schedule",
       "display": true,
-      "requiresAuth": true,
+      "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
