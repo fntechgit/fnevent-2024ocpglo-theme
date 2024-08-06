@@ -2,8 +2,8 @@ import * as React from "react";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import Masonry from "react-masonry-css";
 import Slider from "react-slick";
-import Link from "../../components/Link";
-import { formatMasonry } from "@utils/masonry";
+import Link from "@openeventkit/event-site/src/components/Link";
+import { formatMasonry } from "@openeventkit/event-site/src/utils/masonry";
 
 import styles from "./styles.module.scss";
 
