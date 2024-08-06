@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@openeventkit/event-site": "2.0.119",
-    "gatsby": "^5.13.5"
+    "gatsby": "^5.13.5",
+    "react-masonry-css": "^1.0.16"
   }
 }
