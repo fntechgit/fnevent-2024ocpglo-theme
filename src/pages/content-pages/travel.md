@@ -16,13 +16,13 @@ Looking for things to do in San Jose? Visit their [travel page](https://www.sanj
 
 OCP has room blocks at the following hotels offering our attendees a discounted rate. Please see below for rates and reservation links. Rooms are available until reservation deadline of **September 20** or until the room blocks sell out, whichever occurs first. 
 
+[The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink) - $329 per night (+ taxes & fees)
+
 Marriott - $339 per night (+ taxes & fees) **SOLD OUT!**
 
 Hyatt Place - $304 per night (+ taxes & fees) **SOLD OUT!**
 
-[The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink) - $329 per night (+ taxes & fees)
-
-[Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-0b4ae08d-8f6d-47d5-b4d2-4f032b30c343/) - $348 per night (+ taxes)
+Hilton - $348 per night (+ taxes) **SOLD OUT!**
 
 Signia by Hilton - $292 per night (+ taxes) **SOLD OUT!**
 
