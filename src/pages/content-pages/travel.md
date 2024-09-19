@@ -14,17 +14,17 @@ Looking for things to do in San Jose? Visit their [travel page](https://www.sanj
 
 **Hotels**
 
-OCP has room blocks at the following hotels offering our attendees a discounted rate. Please see below for rates and reservation links. Rooms are available until reservation deadline of **September 20** or until the room blocks sell out, whichever occurs first. 
+All of the OCP room blocks have sold out. Please see below for nearby hotels' public availablilty links. 
 
-[The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink) - $329 per night (+ taxes & fees)
+[San Jose Marriott](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
-Marriott - $339 per night (+ taxes & fees) **SOLD OUT!**
+[Hilton San Jose](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
-Hyatt Place - $304 per night (+ taxes & fees) **SOLD OUT!**
+[The Westin San Jose](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
-Hilton - $348 per night (+ taxes) **SOLD OUT!**
+[ Hyatt Place San Jose/Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
-Signia by Hilton - $292 per night (+ taxes) **SOLD OUT!**
+[Signia by Hilton San Jose ](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
 - - -
 
