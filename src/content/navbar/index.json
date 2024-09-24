@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -11,7 +11,7 @@
       "display": true
     },
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -24,7 +24,7 @@
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -33,13 +33,13 @@
       "title": "MY SCHEDULE",
       "link": "/a/my-schedule",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -52,13 +52,13 @@
       "title": "CONTACT",
       "link": "/contact",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -71,7 +71,7 @@
       "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
