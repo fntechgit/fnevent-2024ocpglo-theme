@@ -8,13 +8,13 @@
   },
   "widgets": {
     "chat": {
-      "enabled": false,
+      "enabled": true,
       "showQA": false,
-      "showHelp": false,
-      "defaultScope": "page"
+      "showHelp": true,
+      "defaultScope": "show"
     },
     "schedule": {
-      "allowClick": false
+      "allowClick": true
     }
   },
   "identityProviderButtons": [
