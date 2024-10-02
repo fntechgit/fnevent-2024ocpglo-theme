@@ -16,11 +16,11 @@ Looking for things to do in San Jose? Visit their [travel page](https://www.sanj
 
 All of the OCP room blocks have sold out. Please see below for nearby hotels' public availablilty links. 
 
-[San Jose Marriott](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
+[San Jose Marriott](https://www.marriott.com/en-us/hotels/sjcsj-san-jose-marriott/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
-[Hilton San Jose](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
+[Hilton San Jose](https://www.hilton.com/en/hotels/sjcshhf-hilton-san-jose/?SEO_id=GMB-AMER-HH-SJCSHHF&y_source=1_MTIyMDg2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==)
 
-[The Westin San Jose](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
+[The Westin San Jose](https://www.marriott.com/en-us/hotels/sjcwi-the-westin-san-jose/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
 [ Hyatt Place San Jose/Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
 
