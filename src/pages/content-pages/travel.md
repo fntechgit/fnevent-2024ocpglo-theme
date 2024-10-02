@@ -22,9 +22,9 @@ All of the OCP room blocks have sold out. Please see below for nearby hotels' pu
 
 [The Westin San Jose](https://www.marriott.com/en-us/hotels/sjcwi-the-westin-san-jose/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
-[ Hyatt Place San Jose/Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
+[ Hyatt Place San Jose/Downtown](https://www.hyatt.com/hyatt-place/en-US/sjczj-hyatt-place-san-jose-downtown??src=corp_lclb_google_seo_sjczj&?utm_source=google&utm_medium=organic&utm_campaign=lmr)
 
-[Signia by Hilton San Jose ](https://www.marriott.com/event-reservations/reservation-link.mi?id=1718397657504&key=GRP&app=resvlink)
+[Signia by Hilton San Jose ](https://www.hilton.com/en/hotels/sjcsmsa-signia-san-jose/?SEO_id=GMB-AMER-SA-SJCSMSA&y_source=1_MjkxMDY1OTktNzE1LWxvY2F0aW9uLndlYnNpdGU=)
 
 - - -
 
