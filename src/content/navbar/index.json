@@ -40,6 +40,16 @@
     },
     {
       "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "MAP",
+      "link": "/map",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
