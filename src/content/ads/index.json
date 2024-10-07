@@ -5,51 +5,20 @@
       "columnAds": [
         {
           "image": {
-            "src": "tier1-default-lobby-space1.png"
+            "src": "ocp24g_lobby_space1.png",
+            "alt": "Map Button"
           },
           "column": "left",
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "link": "/map"
           }
         },
         {
           "image": {
-            "src": "tier1-default-lobby-button.png"
+            "src": "ocp24g_lobby_space3.png",
+            "alt": "Thank you"
           },
-          "column": "left",
-          "button": {
-            "link": "/link-to-url-of-your-choice"
-          }
-        },
-        {
-          "image": {
-            "src": "tier1-default-lobby-button.png"
-          },
-          "button": {
-            "link": "/link-to-url-of-your-choice"
-          },
-          "column": "right"
-        },
-        {
-          "image": {
-            "src": "tier1-default-lobby-space1.png"
-          },
-          "button": {
-            "text": "",
-            "link": "/link-to-url-of-your-choice"
-          },
-          "column": "right",
-          "id": null
-        },
-        {
-          "image": {
-            "src": "tier1-default-lobby-space2.png"
-          },
-          "button": {
-            "link": "/link-to-url-of-your-choice"
-          },
-          "column": "right",
-          "id": null
+          "column": "left"
         }
       ]
     }
