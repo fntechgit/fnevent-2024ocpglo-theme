@@ -6,11 +6,11 @@
     }
   },
   "hero": {
-    "title": "2024 OCP Global Summit Platform",
-    "subTitle": "",
+    "title": "2024 OCP Global",
+    "subTitle": "Summit Platform",
     "background": {
-      "src": "",
-      "alt": ""
+      "src": "ocp24g_lobby_header_v1.png",
+      "alt": "Summit Platform Header"
     }
   },
   "liveNowFeaturedEventId": ""
