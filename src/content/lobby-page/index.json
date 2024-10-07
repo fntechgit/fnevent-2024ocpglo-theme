@@ -6,10 +6,10 @@
     }
   },
   "hero": {
-    "title": "2024 OCP Global",
-    "subTitle": "Summit Platform",
+    "title": "2024 OCP Global Summit Platform",
+    "subTitle": "",
     "background": {
-      "src": "ocp24g_lobby_header_v1.png",
+      "src": "ocp24g-fnv-header-right.png",
       "alt": "Summit Platform Header"
     }
   },
