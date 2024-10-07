@@ -15,6 +15,12 @@
         },
         {
           "image": {
+            "src": "ocp24g_lobby_space2_v1.png"
+          },
+          "column": "left"
+        },
+        {
+          "image": {
             "src": "ocp24g_lobby_space3.png",
             "alt": "Thank you"
           },
