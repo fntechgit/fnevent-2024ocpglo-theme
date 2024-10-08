@@ -44,7 +44,8 @@
         },
         {
           "image": {
-            "src": "ocp24g_lobby_space5.png"
+            "src": "ocp24g_lobby_space5.png",
+            "alt": "Platform Tour"
           },
           "column": "right"
         }
