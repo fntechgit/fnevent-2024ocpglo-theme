@@ -2690,10 +2690,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.135":
-  version "2.0.135"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.135.tgz#2d95a44218f1f0eb894ddb44d604918725b7a2ee"
-  integrity sha512-Es35NDUHgpEoHDroEuoUSNMtpMH6A4as42J11exjaZa6axKEeLCmLjXZDdGm7JTK3sWL+HGsVE+YPdtB5p7FbA==
+"@openeventkit/event-site@2.0.136":
+  version "2.0.136"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.136.tgz#7737cc5ccbe3056063d6c0c15db0f1afd51d4417"
+  integrity sha512-6xVdle99sK6qzXUJVqpAwisV8AnQLVcFBAw934Ut04vr0awJS2Xynn+h7zxVXFVc4PYPQhuxDeW79MdZOJmUvA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
@@ -2721,7 +2721,7 @@
     "@vimeo/player" "^2.16.3"
     ably "^1.2.34"
     assert "^2.1.0"
-    attendee-to-attendee-widget "3.1.1-beta.34"
+    attendee-to-attendee-widget "3.2.0"
     autoprefixer "10.4.14"
     awesome-bootstrap-checkbox "^1.0.1"
     axios "^0.19.2"
@@ -5116,10 +5116,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-attendee-to-attendee-widget@3.1.1-beta.34:
-  version "3.1.1-beta.34"
-  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.1.1-beta.34.tgz#1fbdd83f0446f8a57da595243a8e559747f57483"
-  integrity sha512-iBmaAhrrGoTSVPblSPwIuXOQ8dy/g4bRM6E6LPru2EUmfm/Kbdo1bxyHSQoeaFgnpp9HXsyskwfNmUhdiqL14Q==
+attendee-to-attendee-widget@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.2.0.tgz#5718f1012c17099ac7740cc5e9798684c100b149"
+  integrity sha512-qoOHhCBW4GzdMqbS2qPFr/aHlRBH/f+GwmXnd2vvMxyhtbYEYSKkINtmP/bqreELdtbBhiOqOkBNqBXK5dRDnA==
   dependencies:
     "@supabase/supabase-js" "2.45.1"
     formik "^2.2.6"
