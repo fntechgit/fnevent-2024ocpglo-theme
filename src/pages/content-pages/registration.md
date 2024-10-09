@@ -19,7 +19,7 @@ On-site: $1,200 (October 15 - 17)
 
 #### **Cancellation Policy**
 
-A request to cancel your ticket must be emailed to [registration@opencompute.org](registration@opencompute.org?subject=2022%20OCP%20Global%20Summit%20-%20Question). Requests received prior to August 31 will receive a full refund. No refunds will be given after August 31.
+A request to cancel your ticket must be emailed to [registration@opencompute.org](registration@opencompute.org?subject=2022%20OCP%20Global%20Summit%20-%20Question). Requests received prior to August 31 will receive a full refund. No refunds will be given after August 31. Only the ticket purchaser may transfer a ticket to someone else. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
 
 <br/>
 
