@@ -5,7 +5,7 @@
       "columnAds": [
         {
           "image": {
-            "src": "ocp24g_lobby_space1.png",
+            "src": "ocp24g_lobby_space1_v2.png",
             "alt": "Map Button"
           },
           "column": "left",
@@ -40,7 +40,7 @@
             "src": "ocp24g_lobby_space5_v2.png",
             "alt": "Platform Tour"
           },
-          "column": "right"
+          "column": "left"
         }
       ]
     }
