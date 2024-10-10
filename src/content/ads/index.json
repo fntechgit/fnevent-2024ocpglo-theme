@@ -21,7 +21,7 @@
         },
         {
           "image": {
-            "src": "ocp24g_lobby_space4.png",
+            "src": "ocp24g_lobby_space3_v2.png",
             "alt": "Expo Map"
           },
           "button": {
@@ -37,14 +37,7 @@
         },
         {
           "image": {
-            "src": "ocp24g_lobby_space3.png",
-            "alt": "Thank you"
-          },
-          "column": "left"
-        },
-        {
-          "image": {
-            "src": "ocp24g_lobby_space5.png",
+            "src": "ocp24g_lobby_space5_v2.png",
             "alt": "Platform Tour"
           },
           "column": "right"
