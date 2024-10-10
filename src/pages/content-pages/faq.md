@@ -3,7 +3,6 @@ templateKey: content-page
 title: FAQ
 userRequirement: NONE
 ---
-
 **Q. What internet browsers do you suggest for your platform?**
 
 A. FNvirtual works best in Chrome, Safari, Brave, and Firefox. To ensure you have a fast, safe, and secure internet experience, please verify your preferred browser is up to date.
@@ -38,6 +37,12 @@ A. Your basic FNid information will become your attendee profile.
 A. The information you provide as a speaker/presenter through FNspeaker.mgmt will be visible to attendees. If you are a speaker, you will have two profiles for an event.
 
 * Speaker Profile: Information specific to your speaking opportunity (your bio, etc.)
+
+**Q. What should I know about the Chat feature on the Summit Platform?** 
+
+A. ***NEW this year!*** Log into the Summit Platform onsite to be able to search, view, and chat with other attendees. You can search by name or company, and direct message those who are logged in and have opted in to receive messages. You can also check out our Group Chats where you can connect to others interested in similar topics, like our OCP Projects.
+
+A. ***Not Your Thing?*** Once you're logged into the Summit Platform, simply click the "My Profile" icon at the top right of the page to choose the information that is visible to other attendees, or opt out of chat altogether. It's your choice!
 
 **Q. I forgot my FNid login/password. What do I do now?**
 
@@ -88,12 +93,13 @@ A. Click on “Schedule” in the top navigation bar.
 * Find the session/event you wish to add to your schedule and click the “+” symbol to the right of the title.
 * You may view sessions or events you have added to your personal schedule by clicking “My Schedule” in the navigation bar.
 
+**Q. How to I update my profile?** 
+
+A. Click on “Schedule” in the top navigation bar. 
+
 **Q. How do I increase or decrease the text in FNvirtual Event Platform?**
 
-A. Open your internet browser. Then…
-
-* Keystrokes for Mac users: “Command” + “+/-”
-* Keystrokes for PC users: “Alt + View”, then point to the text size you desire (Largest, Larger, Medium (default), Smaller and Smallest)
+A. Once you're logged into the Summit Platform, simply click the "My Profile" icon at the top right of the page to choose the information that is visible to other attendees, or opt out of chat altogether. It's your choice!
 
 **Q. I’m interested in using FNvirtual for an event. Who should I contact?**
 
