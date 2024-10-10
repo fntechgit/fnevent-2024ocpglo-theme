@@ -40,7 +40,10 @@
             "src": "ocp24g_lobby_space5_v2.png",
             "alt": "Platform Tour"
           },
-          "column": "left"
+          "column": "left",
+          "button": {
+            "link": "@⁨Kali Burdette, CMP⁩ @⁨Kate Hendle⁩ @⁨Kevin Kifer⁩ @⁨~Jonae Powers⁩ I have created a demo video for the simulcast side of the site.  Please let me know if this works for you and we will add to the lobby for people, also you can add this link in your precons if you like: https://spaces.fnvirtual.app/OCPGlobalSummitandSymposium2024/Videos/2024%20OCP%20Global%20Summit.m4v"
+          }
         }
       ]
     }
