@@ -14,7 +14,7 @@
       "defaultScope": "show"
     },
     "schedule": {
-      "allowClick": true
+      "allowClick": false
     }
   },
   "identityProviderButtons": [
