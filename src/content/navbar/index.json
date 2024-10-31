@@ -8,7 +8,7 @@
       ],
       "title": "HOME",
       "link": "/a/",
-      "display": true
+      "display": false
     },
     {
       "userRequirement": "NONE",
